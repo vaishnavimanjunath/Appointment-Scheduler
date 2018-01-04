@@ -1,0 +1,16 @@
+#login{
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+.allignCenter{
+    text-align: center;
+}
+#loginSubmit{
+    margin-bottom: 5%;
+}
+#outerDiv{
+    height: 100vh;
+    background: url('/assets/images/login.jpg')
+}    
+
